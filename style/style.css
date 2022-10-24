@@ -1,0 +1,21 @@
+.wrapper {
+	max-width: 1800px;
+	margin-left: 150px;
+	border: 1px solid red;
+}
+
+.page {
+	max-width: 1750px;
+	margin-left:25px;
+	margin-right:50px;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration:underline;
+}
+p.start {
+	font-style: italic;
+}

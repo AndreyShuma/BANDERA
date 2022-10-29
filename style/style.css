@@ -1,7 +1,8 @@
 .wrapper {
 	max-width: 1800px;
 	margin-left: 150px;
-	border: 1px solid red;
+	//border: 1px solid red;//
+	font-family: sans-serif;
 }
 
 .page {
@@ -13,9 +14,12 @@ a {
 	color: blue;
 	text-decoration: none;
 }
+p.start {
+	font-style: italic;
+}
 a:hover {
 	text-decoration:underline;
 }
-p.start {
-	font-style: italic;
+a:active {
+	color: green;
 }
